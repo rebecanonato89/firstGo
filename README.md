@@ -11,27 +11,33 @@ Para rodar o projeto, você pode seguir as seguintes etapas:
 
    ```shell
    docker run rebecanonato89/fullcycle
+   ```
+
+## Imagem disponível no 
+
+   https://hub.docker.com/r/rebecanonato89/fullcycle
+
 
 ## Configuração do projeto
 Clone o repositório do projeto em sua máquina local:
 
-  ```shell
-  Copy code
-  git clone https://github.com/seu-usuario/firstGo.git
-  ```
+     ```shell
+     Copy code
+     git clone https://github.com/seu-usuario/firstGo.git
+     ```
 
 Navegue até o diretório do projeto:
 
-  ```shell
-  Copy code
-  cd firstGo
-  ```
+     ```shell
+     Copy code
+     cd firstGo
+     ```
 
 Construa a imagem Docker do projeto:
 
-  ```shell
-  Copy code
-  docker build -t rebecanonato89/fullcycle .
-  ```
+     ```shell
+     Copy code
+     docker build -t rebecanonato89/fullcycle .
+     ```
   
   
